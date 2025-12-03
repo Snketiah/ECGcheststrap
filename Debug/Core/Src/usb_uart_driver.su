@@ -1,0 +1,8 @@
+../Core/Src/usb_uart_driver.c:18:17:USB_UART_Init	16	static
+../Core/Src/usb_uart_driver.c:45:17:USB_UART_Deinit	16	static
+../Core/Src/usb_uart_driver.c:65:17:USB_UART_Transmit	40	static
+../Core/Src/usb_uart_driver.c:90:17:USB_UART_TransmitString	24	static
+../Core/Src/usb_uart_driver.c:104:6:USB_UART_RegisterCallback	16	static
+../Core/Src/usb_uart_driver.c:115:6:USB_UART_IsMessageReady	16	static
+../Core/Src/usb_uart_driver.c:129:10:USB_UART_GetMessage	32	static
+../Core/Src/usb_uart_driver.c:153:6:USB_UART_IRQHandler	16	static

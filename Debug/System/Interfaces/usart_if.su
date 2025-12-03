@@ -1,0 +1,4 @@
+../System/Interfaces/usart_if.c:142:25:UART_Init	16	static
+../System/Interfaces/usart_if.c:172:25:UART_DeInit	8	static
+../System/Interfaces/usart_if.c:213:25:UART_StartRx	16	static
+../System/Interfaces/usart_if.c:239:25:UART_TransmitDMA	24	static

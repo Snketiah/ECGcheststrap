@@ -1,0 +1,5 @@
+../STM32_BLE/App/hrt_app.c:91:6:HRT_Notification	16	static
+../STM32_BLE/App/hrt_app.c:126:6:HRT_APP_EvtRx	16	static
+../STM32_BLE/App/hrt_app.c:164:6:HRT_APP_Init	8	static
+../STM32_BLE/App/hrt_app.c:175:6:HRT_APP_Process	8	static
+../STM32_BLE/App/hrt_app.c:192:13:HRT_Hrm_SendNotification	24	static

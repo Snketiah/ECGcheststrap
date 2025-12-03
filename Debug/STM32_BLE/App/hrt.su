@@ -1,0 +1,4 @@
+../STM32_BLE/App/hrt.c:144:30:HRT_EventHandler	56	static
+../STM32_BLE/App/hrt.c:282:6:HRT_Init	24	static
+../STM32_BLE/App/hrt.c:328:12:HRT_UpdateValue	24	static
+../STM32_BLE/App/hrt.c:357:12:HRT_NotifyValue	40	static

@@ -1,0 +1,10 @@
+../Core/Src/stm32wb0x_it.c:73:6:NMI_Handler	1
+../Core/Src/stm32wb0x_it.c:88:6:HardFault_Handler	1
+../Core/Src/stm32wb0x_it.c:103:6:SVC_Handler	1
+../Core/Src/stm32wb0x_it.c:116:6:PendSV_Handler	1
+../Core/Src/stm32wb0x_it.c:129:6:SysTick_Handler	1
+../Core/Src/stm32wb0x_it.c:150:6:PKA_IRQHandler	1
+../Core/Src/stm32wb0x_it.c:164:6:RADIO_TIMER_CPU_WKUP_IRQHandler	1
+../Core/Src/stm32wb0x_it.c:178:6:RADIO_TIMER_ERROR_IRQHandler	1
+../Core/Src/stm32wb0x_it.c:192:6:RADIO_TXRX_IRQHandler	1
+../Core/Src/stm32wb0x_it.c:206:6:RADIO_TXRX_SEQ_IRQHandler	1
